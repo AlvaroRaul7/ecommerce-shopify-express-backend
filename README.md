@@ -1,9 +1,10 @@
 
-#Table of contents
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Features](#features)
-- [Usage](#usage)
+# Table of contents
+- [Table of contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Installation](#installation)
+  - [Features](#features)
+  - [Usage](#usage)
 
 
 
