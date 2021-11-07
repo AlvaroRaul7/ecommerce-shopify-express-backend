@@ -27,16 +27,16 @@ Database: Mongodb Atlas Free Cluster hosted in AWS
 
 ## Installation
 
-1.-  Enter the project folder
-2.- Run `npm install` to run all the dependencies
-3.- Run `npm run start` to run the project in your localhost
+1. Enter the project folder
+2. Run `npm install` to run all the dependencies
+3. Run `npm run start` to run the project in your localhost
 
 
 ## Installation (Docker way)
 
-1.- Enter the project folder
-2.- Enter the command: `chmod +x build_pipeline`
-3.- That's it! So easy isn't it? :D
+1. Enter the project folder
+2. Enter the command: `chmod +x build_pipeline`
+3. That's it! So easy isn't it? :D
 
 Note:(For requests the port mapped is 49160)
 
