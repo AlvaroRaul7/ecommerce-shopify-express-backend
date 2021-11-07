@@ -1,11 +1,13 @@
+
+#Table of contents
 - [Introduction](#introduction)
-  - [Installation](#installation)
-  - [Features](#features)
-  - [Usage](#usage)
+- [Installation](#installation)
+- [Features](#features)
+- [Usage](#usage)
 
 
 
-# Introduction
+## Introduction
 
 Backend project for an ecommerce using Shopify Storefront API Graphql integration for syncing products.
 
