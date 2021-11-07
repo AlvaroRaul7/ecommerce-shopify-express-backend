@@ -3,6 +3,7 @@
 - [Table of contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Installation](#installation)
+  - [Installation (Docker way)](#installation-docker-way)
   - [Features](#features)
   - [Usage](#usage)
 
@@ -10,7 +11,7 @@
 
 ## Introduction
 
-Backend project for an ecommerce using Shopify Storefront API Graphql integration for syncing products.
+Backend project for an ecommerce using Shopify Storefront API Graphql integration for syncing products
 
 **Tech Stack**
     - Express.js
@@ -18,7 +19,9 @@ Backend project for an ecommerce using Shopify Storefront API Graphql integratio
     - Mongoose
     - @shopify/shopify-api
     - graphql
-  
+
+Database: Mongodb Atlas Free Cluster hosted in AWS
+
 
 
 
@@ -27,6 +30,15 @@ Backend project for an ecommerce using Shopify Storefront API Graphql integratio
 1.-  Enter the project folder
 2.- Run `npm install` to run all the dependencies
 3.- Run `npm run start` to run the project in your localhost
+
+
+## Installation (Docker way)
+
+1.- Enter the project folder
+2.- Enter the command: `chmod +x build_pipeline`
+3.- That's it! So easy isn't it? :D
+
+Note:(For requests the port mapped is 49160)
 
 ## Features
 

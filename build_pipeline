@@ -1,0 +1,5 @@
+
+#/bin/bash
+
+docker build . -t alvaroraul7/ecommerce  
+docker run --name ecommerce_container  -p 49160:3000 -d alvaroraul7/ecommerce 
