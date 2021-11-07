@@ -14,11 +14,11 @@
 Backend project for an ecommerce using Shopify Storefront API Graphql integration for syncing products
 
 **Tech Stack**
-    - Express.js
-    - Typescript
-    - Mongoose
-    - @shopify/shopify-api
-    - graphql
+- Express.js
+- Typescript
+- Mongoose
+- @shopify/shopify-api
+- graphql
 
 Database: Mongodb Atlas Free Cluster hosted in AWS
 
